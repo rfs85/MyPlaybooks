@@ -12,5 +12,5 @@ Ansible playbooks to deploy web applications and network services.
 
 ## Penetration Testing & Red Team
 - EvilnGinx
-- CrackMapExec + Covenant + DeathStar
+- CrackMapExec + Covenant + DeathStar - Bloodhound
 - 
