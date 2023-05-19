@@ -8,6 +8,8 @@ Ansible playbooks to deploy web applications and network services.
 
 ## Network Services
 - Squid
+- PowerDNS
+- Power DNS GUI
 
 
 ## Penetration Testing & Red Team
